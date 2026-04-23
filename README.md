@@ -49,6 +49,7 @@ Grayscale conversion
 Noise reduction
 Thresholding
 Background isolation
+
 4️⃣ Hand Detection
 
 Contours are extracted to isolate the hand shape.
@@ -62,6 +63,7 @@ Finger count
 Contour area
 Convex hull defects
 Landmark positions
+
 6️⃣ Machine Learning Classification
 
 Extracted features are passed to trained models such as:
@@ -70,6 +72,7 @@ KNN
 SVM
 Random Forest
 CNN (future enhancement)
+
 7️⃣ Output Prediction
 
 Recognized gesture name is displayed on screen in real time.
